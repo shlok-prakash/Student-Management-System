@@ -66,7 +66,7 @@ public class Main {
     }
 
     private static void exit(){
-        System.out.println();
+        System.out.println("Thanks for Enrolling ... have a GoodDay!!!");
         System.exit(0);
     }
 
